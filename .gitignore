@@ -1,0 +1,7 @@
+#Ignore folder
+
+/static/img
+
+#Ignore all .jpg files
+
+.jpg
