@@ -10,7 +10,7 @@ showActions: false
 Welcome visitor on my website !
 
 This is my personal website used to record my studies in data science.
-You can easily find my work on the blog section. On my home section, you will find some information about me.
+You can easily find my work on the home section.
 
 Please feel free to follow me on GitHub !
 
