@@ -1,9 +1,10 @@
 ---
 title: "Welcome to my homepage"
-date: 2020-03-01T18:43:57+01:00
-draft: true
+date: 2020-03-01
 categories:
-- welcome
+  - welcome
+comments: false
+showActions: false
 ---
 
 Welcome visitor on my website !
@@ -11,7 +12,7 @@ Welcome visitor on my website !
 This is my personal website used to record my studies in data science.
 You can easily find my work on the blog section. On my home section, you will find some information about me.
 
-Don't hesitate to follow me on GitHub !
+Please feel free to follow me on GitHub !
 
 Enjoy and again, welcome to my website !
 

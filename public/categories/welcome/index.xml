@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amila Malinovic</title>
-    <link>http://www.amila-m.com/</link>
-    <description>Recent content on Amila Malinovic</description>
+    <title>welcome on Amila Malinovic</title>
+    <link>http://www.amila-m.com/categories/welcome/</link>
+    <description>Recent content in welcome on Amila Malinovic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.amila-m.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.amila-m.com/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,17 +23,6 @@ You can easily find my work on the blog section. On my home section, you will fi
 &lt;p&gt;Please feel free to follow me on GitHub !&lt;/p&gt;
 &lt;p&gt;Enjoy and again, welcome to my website !&lt;/p&gt;
 &lt;p&gt;Amila Malinovic&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://www.amila-m.com/about/</link>
-      <pubDate>Wed, 26 Feb 2020 21:53:00 +0100</pubDate>
-      
-      <guid>http://www.amila-m.com/about/</guid>
-      <description>Hi, I am Amila Malinovic. I am currently looking for a position as Data Scientist in the region of Paris.
-I started my studies with a bachelor’s degree in Biochemistry and Cell Biology, followed by a master’s degree in Bioinformatics and Biostatistics and ending with a master’s degree in applied mathematics , Data Science.
-My previous professional experience as a scientific project manager in Paris provided me a strong coding skills and a rigorous scientific approach.</description>
     </item>
     
   </channel>

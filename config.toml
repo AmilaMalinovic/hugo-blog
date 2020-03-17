@@ -34,7 +34,7 @@ canonifyurls = true
   name = "Amila Malinovic"
   bio = "Loving playing with data"
   job = "Data Scientist"
-  location = "France"
+  location = "Paris, France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "malinovicamila@gmail.com"
   # Your profile picture
@@ -106,7 +106,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Amila's blogs on data science stuff..."
+  description = "Amila's blogs on data science, analysis and more..."
 
   # Customization
   # Define the behavior of the sidebar
